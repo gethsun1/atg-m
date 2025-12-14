@@ -1,0 +1,35 @@
+# ATG-M Cursor Rules
+
+## Project Context
+- Movement L1 native treasury management
+- Move smart contracts (Aptos dialect)
+- Next.js 14 frontend with TypeScript
+- HuggingFace AI integration
+- No EVM/Ethereum references
+
+## Code Style
+- TypeScript strict mode
+- Functional React components
+- Tailwind CSS for styling
+- No markdown symbols in UI text
+- Clean transitions (fade, not scroll)
+
+## Movement/Move Specific
+- Use @aptos-labs/ts-sdk for Movement
+- Movement uses Aptos Move dialect
+- View functions are gas-free
+- Always verify signer in mutations
+- Event emission for auditability
+
+## AI Integration
+- HuggingFace Inference API
+- Structured JSON output required
+- Always include fallback logic
+- Never return empty responses
+
+## Testing
+- Test on Movement testnet first
+- Verify transactions on explorer
+- Check wallet compatibility
+- Monitor HF API rate limits
+

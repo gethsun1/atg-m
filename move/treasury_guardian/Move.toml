@@ -1,0 +1,17 @@
+[package]
+name = "treasury_guardian"
+version = "1.0.0"
+edition = "2024.beta"
+
+[addresses]
+treasury_guardian = "_"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-addresses]
+
+[dev-dependencies]
+
