@@ -6,7 +6,7 @@
 
 ## 🎯 Movement L1 Ready | Currently on Aptos Devnet
 
-**Live Demo**: https://atgm-h6i6zosgr-gethsun1s-projects.vercel.app
+**Live Demo**: https://atgm.vercel.app/
 
 ATG-M is an AI-autonomous treasury guardian built specifically for **Movement L1** using the Move programming language. The smart contract is written in Aptos Move (Movement's native dialect) and is fully compatible with Movement's blockchain architecture.
 
